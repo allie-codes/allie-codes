@@ -37,7 +37,7 @@ An SEO-optimised content site with a functioning e-commerce store, powered by **
 
 ## 📬 Let’s Connect!
 
-Want to talk product, remote work, or nerd out about automation? Reach out via [LinkedIn](https://www.linkedin.com/in/allie-griffin) or check out my work below 👇
+Want to talk product, remote work, or nerd out about automation? Reach out via [LinkedIn](https://www.linkedin.com/in/allie-griffin) or check out my work on my [website](https://www.allie-codes.com/portfolio)!
 
 
 <!---
