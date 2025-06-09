@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Allie!
 
-Welcome to my corner of GitHub! I’m a former editor-turned-product-minded builder with a passion for creating smart, streamlined web tools. My background blends tech, communication, and entrepreneurship — and I’m currently transitioning into **Product Management / Technical Program Management** roles. 🎯
+Welcome to my corner of GitHub! I’m a former academic editor-turned-product-minded builder with a passion for creating smart, streamlined web tools. My background blends tech, communication, and entrepreneurship — and I’m currently transitioning into **Product Management / Technical Program Management** roles. 🎯
 
 ---
 
