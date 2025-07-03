@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Allie!
 
-Welcome to my corner of GitHub! I’m an academic editor-turned-product-minded builder with a passion for creating smart, streamlined web tools. My background blends tech, communication, and entrepreneurship — and I’m currently transitioning into **Product Management / Technical Program Management** roles. 🎯
+I’m an academic editor-turned-product-minded builder with a passion for creating smart, streamlined web tools. My background blends tech, communication, and entrepreneurship, and I’m currently transitioning into **Product Management / Technical Program Management** roles. 🎯
 
 ---
 
@@ -13,7 +13,7 @@ A cloud-based tool for my editing business, using **Azure**, **GPT**, and full-s
 Built with **Next.js**, **TypeScript**, **Sanity.io**, and deployed via **Vercel**. Tutorials, thoughts, and experiments for indie devs and learners.
 
 📚 **Book Blog + Digital Shop**  
-An SEO-optimised content site with a functioning e-commerce store, powered by **Stripe** and **Brevo** for email automation. Because books and tech are both core to who I am!
+An SEO-optimised content site with a functioning e-commerce store, powered by **Stripe** and **Brevo** for email automation.
 
 ---
 
@@ -28,7 +28,7 @@ An SEO-optimised content site with a functioning e-commerce store, powered by **
 
 ## 🎯 Goals for 2025
 
-- Finish the **Google Project Management Certificate** ✅  
+- Finish my **FineLine Editing web app** ✅  
 - Launch my first **paid SaaS product** 💡  
 - Step into a **PM/TPM role** with a mission-driven tech team 🚀  
 - Keep learning & sharing via open-source, blogs, and builds 💬
@@ -37,7 +37,7 @@ An SEO-optimised content site with a functioning e-commerce store, powered by **
 
 ## 📬 Let’s Connect!
 
-Want to talk product, remote work, or nerd out about automation? Reach out via [LinkedIn](https://www.linkedin.com/in/allie-griffin) or check out my work on my [website](https://www.allie-codes.com/portfolio)!
+Want to talk indie hacking or work opportunities? Reach out via [LinkedIn](https://www.linkedin.com/in/allie-griffin) or check out some of my work on my [website](https://www.allie-codes.com/portfolio)!
 
 
 <!---
