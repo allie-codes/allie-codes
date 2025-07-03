@@ -20,7 +20,7 @@ An SEO-optimised content site with a functioning e-commerce store, powered by **
 ## 💻 Tech Stack Highlights
 
 - **Frontend**: Next.js, JavaScript/TypeScript, HTML/CSS, Tailwind  
-- **Backend**: Node, Django, Spring Boot, REST APIs
+- **Backend**: Node, Django, FastAPI, Spring Boot, REST APIs
 - **Data**: SQLite, PostgreSQL
 - **Tools**: Sanity.io, Stripe, Azure, GitHub, Notion  
 - **Extras**: Vercel, Brevo (Sendinblue), Plotly, MapBox, Docker
